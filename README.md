@@ -81,7 +81,6 @@
 | **[Agente SQL](https://github.com/lennonmuller/Agente_sql)** | AI SQL Agent using LLMs for database queries (DIO Community Week) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35" height="35"/> |
 | **[Lab Natty or Not](https://github.com/lennonmuller/lab-natty-or-not)** | Exploring generative AI capabilities and applications | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35" height="35"/> |
 | **[To-Do App](https://github.com/lennonmuller/To-Do-App)** | Full-stack task management web application | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="35" height="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="35" height="35"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35" height="35"/> |
-| **[ebook Python Rasta](https://github.com/lennonmuller/ebookPythonRasta)** | Educational Python resource and tutorials | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35" height="35"/> |
 
 ###
 
